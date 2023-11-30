@@ -19,7 +19,7 @@ Table of content:
 	- Projection pushdown
 	- Filter Pushdown
 - Datalake and stuff
-- **DuckBerg**
+- **DuckBerg 🚀 (https://github.com/slidoapp/duckberg)**
 	- Install
 	- Setup
 	- Querying
